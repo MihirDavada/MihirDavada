@@ -5,3 +5,7 @@
   dynamic projects, collaborate with cross-functional teams, and further develop technical expertise.
 
 - Seeking an entry-level position to kick-start a successful career as a Full Stack Developer.
+
+- You can see my portfolio...
+
+  
